@@ -68,13 +68,20 @@ function myFunction() {
     9.Horizontal Rule
     Example 
     ---
-    9. Link 
+
+    10. Link 
     example 
     [title](https://www.example.com)
 
-    10.Image (local)
+    11.Image (local)
     example 
     ![alt text](image.jpg)
+    
+    12. table
+    | Syntax | Description |
+    | -------| ----------- |
+    | Header | Title |
+    | Paragraph | Text |
 
 
     
