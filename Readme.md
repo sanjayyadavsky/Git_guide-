@@ -58,11 +58,23 @@ Markdown is a simple markup language that uses plain text formatting syntax and 
     document.getElementById("demo").innerHTML = numbers.some(checkValue);
     }
     ```
+
+    example of javascript language adding in readme file 
 ``` javascript
 function myFunction() {
   document.getElementById("demo").innerHTML = numbers.some(checkValue);
 }
 ```
     9.Horizontal Rule
-    Example
+    Example 
+    ---
+    9. Link 
+    example 
+    [title](https://www.example.com)
+
+    10.Image (local)
+    example 
+    ![alt text](image.jpg)
+
+
     
